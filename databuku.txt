@@ -1,0 +1,18 @@
+DATA BUKU
+---------
+
+Kode Buku: 456
+Nama Buku: Bahasa C
+Jenis Buku: Edukasi
+Harga: 90000.00
+
+Kode Buku: 123
+Nama Buku: Laskar Pelangi
+Jenis Buku: Novel
+Harga: 50000.00
+
+Kode Buku: 0
+Nama Buku: Test
+Jenis Buku: Test
+Harga: 20000.00
+

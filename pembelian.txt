@@ -1,0 +1,12 @@
+DAFTAR PEMBELIAN
+----------------
+
+Nama Buku: Bahasa C
+Jumlah: 1
+
+Nama Buku: Laskar Pelangi
+Jumlah: 1
+
+Nama Buku: Laskar Pelangi
+Jumlah: 2
+
